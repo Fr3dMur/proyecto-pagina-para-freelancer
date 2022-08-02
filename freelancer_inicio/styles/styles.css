@@ -180,7 +180,8 @@ div.ubicacion{
 /* Scrolling */
 .navegacion-principal,
 .servicios,
-section .formulario-contacto{
+.formulario-contacto
+footer{
     scroll-snap-align: center;
     scroll-snap-stop: always;
 }
